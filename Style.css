@@ -116,6 +116,7 @@ gap: 10px;
     opacity: 0;
     animation-fill-mode: forwards;
 }
+
 @keyframes zoom{
     0%{
         transform: scale(0);
